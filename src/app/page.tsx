@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Script from "next/script";
-import GameControls from "./components/GameControls";
+import GameControls from "@/components/GameControls";
 
 export default function Home() {
   return (
